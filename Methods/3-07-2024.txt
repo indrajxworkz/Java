@@ -1,0 +1,29 @@
+3-07-2024
+
+
+
+class Television{
+
+static boolean isConnected = true;
+
+
+}
+
+if any variable is declared as local variable then the scope of that particular method not outside of that particular method 
+
+
+
+why multiple return values are written ??
+  
+	they are the last statement which will be getting executed With 
+
+
+
+
+
+
+if we want to ignore the case sensitivity then we have to go with 
+
+(parameter.equalsIgnoreCase())
+
+

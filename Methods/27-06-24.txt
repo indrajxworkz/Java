@@ -1,0 +1,11 @@
+11:44 27-06-2024
+  Why datatype ??
+-> 
+
+ what is a Variable ?? & why Variable ?? & What is the syntax for a Variable ?? & Where can we use a variable ?? & what are the types of Variable ?? 
+-> 
+ same applies for all the topics in java like Exception and Inheritance ??  
+
+
+
+if you use the '+' with 2 integers then even in SOP it will perform the addition operation but if it is used with an String datatypes then it will perform as concatenator. 

@@ -1,0 +1,97 @@
+12:48 26-06-2024
+
+why array in java??
+
+->    To overcome the problems of the variable.
+  
+who provides the default the value in java ??
+
+->    values defined by the compiler.
+
+what is null pointer exception in java??
+->    occurs when a variable that is being accessed has not yet been assigned to an object.
+
+what are the types of variable
+-> static or class, non-static, parameter, local. 
+
+What is JVM ??
+-> JVM is a components of Java which helps to  execute the byte code.
+ 
+what is JDK ??
+-> JDK is a component of Java which contains neccesarry tools for construction of Java baed applications. 
+
+what is JRE ??
+-> JRE is a component of java which 
+
+
+How does a java program runs??
+-> 		Source code is complier which is called by complier which is being invoked by javac     	this will generate the .class file which is being  sent to the class loader which is being  	verified  by the byte code verifier and then interpreter which plays the vital role by 	ecxuting the code line by line 
+	
+	there are 2 environments 
+		-> Compilation environment JDK will provide the compilation time which is handled 		    by JDK itself which contains the complier
+		-> JRE JVM will provide the exceution time and the runtime is handled by JRE which 		    contains JRE 
+
+
+for(String iccteamname:top10ICCTeamsName){
+	System.out.println(iccteamname);
+	}
+the above whole thing is called as a block. 
+
+	
+
+variable Syntax
+
+ 1. declaration 
+ 2. Initialization
+
+datatypes ref = value ;
+
+Array syntax 
+
+	 
+   ref [] = {"Value", "Value2", "Value3", .........};
+high level data types
+
+primitive 
+non - primitive 
+
+primitive has 8 types 
+
+non - primitive type are : anything of the datatypes in Uppercase comes into the bucket of non-primitive datatypes.
+
+
+initialization is must for an array for avoiding the null pointer exception error basically which is not an error
+
+
+
+always the program  will start or the entry point of the program is main method. 
+
+
+Which components are Platform independent ??
+->  all the 3 components JDK JRE JVM are platform dependent the only thing in platform independent 	is .class file which contains the byte code which is basically byte code is platform 	independent 
+
+
+METHODS in JAVA 
+
+Methods are the block of code to perform the logic/functionalities/operation which has the greatest advantages.
+
+Method should be returned  
+
+
+parameter is the one which is to be passed within the parenthesis is called as parameter 
+
+
+
+
+
+	public static void add(int num1,int num2){
+		
+		System.out.println(num1+num2);
+		
+	}
+the above line describe the method declaration.
+	
+
+	add(int num1,int num2) this is the way of writing or passing the or initialization and declaration of the Variable.
+
+the code inside the " {} " is the body of the code/SOP of the Method. 

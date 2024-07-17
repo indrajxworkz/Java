@@ -1,0 +1,190 @@
+13:51 08-07-2024
+
+any value in java is called as literals. 
+
+	example : static String name = Baba; 
+ 		here baba is the String literal.
+	in this int byte short long all are the literals of Integer.
+	so on it goes for all the datatypes of both primitive or non - primitive.
+
+Identifier : any name in java is called as Identifier/ a name given to class variable or a method in java is called Identifier. 
+
+		example : name of the class or any variable or any methods are called identifier.
+		String is also called as Identifier in java 
+
+built in inse
+ 
+no spec
+
+
+method declaration includes method header without any method header we cant create any method 
+
+
+methodName(Parameter) this is Method Signature
+ 
+parameters are the datatype reference.
+
+
+<access specifiers > returnType methodName(parameter ) this whole thing is called as method header.
+
+
+
+
+method declaration 
+
+	we have the above mentioned it has declaration signature parameters 
+
+
+structure of the code 
+
+
+
+13:32 10-07-2024
+
+	method Overloading..
+ 
+
+	in a class if we have multiple methods with same method name then it is called as method Overloading 
+
+
+12:03 11-07-2024
+
+how will the data to be capture from the UI to the backend ???
+
+	it is always captured in the form of the parameter.
+
+what is meant by parameter??
+
+	variable defined in the method after the method name in the parenthesis.
+	variable declared inside the parenthesis of a method.
+	parameters are the list of references which are separated by coma.
+
+what is a return type ??
+type of reference returned by the method
+3. types 
+void primitive non-primitive.
+
+
+
+13:27 11-07-2024
+
+
+
+new way of Method declaration 
+
+
+	public static boolean createChatName (String chatName){
+	
+	System.out.println("Create chart name started ");
+	boolean isChatNameCreated = false;
+	if(chatName != null){
+	chatNames[index] = chatName;
+	index++;
+	isChatNameCreated = true;
+	
+	
+	
+	
+	}
+	System.out.println("Create chart name ended ");
+		return isChatNameCreated;
+	}
+
+
+
+Structure of the method declaration.
+
+understand the whole structure
+
+
+
+
+
+
+
+
+13:11 12-07-2024 class
+
+
+13:05 15-07-2024
+
+
+the name given to the class ,method and also to the variables is called as Identifiers;
+
+
+Packages :(New Topic);;
+
+
+
+12:32 16-07-2024
+
+Return Type is value of the reference in the method called
+ 
+
+only 2 methods are required for method overloading bcz there must be no changes made in the code once written
+
+A class declared with 2 or more methods declared with same name with different parameters or arguments.
+
+the person or the user who calls is the "caller" and the method invoked is the "called method"(the method declaration).
+
+The change in parameter is done through 2 ways that is list of parameter, type of parameter.
+
+
+
+payment gateway,  (Making payments.)
+	
+
+
+Java Fundamentals (Syntax & Symmatic) - are necessary to build software 
+
+1. Keywords 
+2. literals
+3. Identifiers.
+4. variables & Datatypes.
+5. Array.
+6. Methods & Method Overloading
+7. Operators (Arithmetic & Relational)
+8. Conditional (if)
+9. Looping (for)
+10. Class & Objects
+11. OOPS (Abstraction ,Inheritance ,Polymorphisms ,Encapsulation) ,Exception handling ,Collection ,Java 8 features ,JDBC ,JEE 
+
+
+how data is stored in an array in java??
+
+->	it stores in a linear order 
+
+there are 2 types of methods
+ static and non static or instances.
+
+literals are the values in java
+
+
+array literals can be of 2 types values, adding new.
+
+
+What are keyword ??
+predefined or special words or reserved words in java which has there own specific meaning. without keywords jvm cant understand the code. there are 50 +3 keywords in java. where only 48 are used in java remaining 2 are not used.(goto & const) (True. False. null) these are also keywords which are also used as values.  example = int age = int -- not possible.
+
+
+13:27 17-07-2024
+
+
+why class is used in JAVA?? what is importance of class in JAVA??
+
+-> its a template or a design which has states and properties where states are considered to be as variables properties fields reference and behaviour is referred to has the methods or it can also be told as functionality of the method or also a purpose.
+
+-> code gets stored in memory.  
+
+
+
+if we want multiple copies of same class then we will create an "object" for that particular class.
+
+
+
+
+
+
+
+
+

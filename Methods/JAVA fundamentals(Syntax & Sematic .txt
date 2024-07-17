@@ -1,0 +1,51 @@
+JAVA fundamentals(Syntax & Sematic ) are necessary to build a software along with these we need Linux and Mac usage 
+
+	1. Keywords 
+
+	2. Literals
+
+	3. Identifier 
+
+	4. variables & Datatypes 
+
+	5. Arrays 
+
+ 	6. Methods & Method Overloading 
+
+	7. Operators (Arithmetic , Relational Operators)
+
+	8. Conditonal statements (if else, if else if, ififififif else, )
+
+	9. Looping (For)
+
+ 	10.Class & Objects
+
+	11.OOPs (Inhertance, Polymorphism, Inhertiance, Encapsulation)
+
+	12.Exception Handling 
+
+	13.Collections Java 8 Features
+
+	14.JDBC(does not include in Advance java)
+
+
+
+Platforms 
+
+	1. JSE - Java Standard Edition (Stand alone Application)
+
+	2. JEE - Java Enterprise Edition 
+
+	3. JME & Embedded - Java Mobile Edition 
+
+	4. Java Fx  -
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+11:51 28-06-2024
+
+
+
+to invoke the method along with for the operation of the function then it must be called within the main methods 
+
+Syntax of calling a method 
+
+Method_name(actual parameters)
+
+can be called n number of times.
+
+  
+
